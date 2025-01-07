@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yae-simp
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Kotlin.
+- 🌱 I’m currently learning Swift.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: don't
 - 😄 Pronouns: otter
